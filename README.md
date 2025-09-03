@@ -92,7 +92,7 @@ print(shutil.which("uv"))
 7. uv pip list
  
 8. uv python list
-uv venv env --python cpython-3.10.18-windows-x86_64-none
+uv venv myenv --python cpython-3.10.18-windows-x86_64-none
 uv venv <your-env-namne> --python <your-python-version>
 Note: please use either 3.10 or 3.11 or 3.12
 Command Prompt (CMD)  .\<your-env-nanme>\Scripts\activate.bat
