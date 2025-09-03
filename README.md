@@ -106,3 +106,8 @@ git config --global user.email "your-email@example.com"
 git config commit.gpgsign false
 19. Uv add <package_name>
 20. Uv add -r requirements.txt
+
+ local to folder: 
+  git config user.name "Rakesh Kumar"
+  git config user.email "rakeshonrediff@gmail.com"
+git config commit.gpgsign false
